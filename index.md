@@ -20,3 +20,7 @@ De asemenea prin aceste link-uri se pot accesa si sectiuni din pagina curenta sa
 ###link-urile clasice
 
 [textul link-ului(www.google.com)] 
+
+imagine:
+
+[text descriptiv imagine](https://metricop.com/cdn/shop/articles/trimble-total-station.jpg?v=1677673954)
