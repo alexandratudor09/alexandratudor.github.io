@@ -2,6 +2,10 @@
 
 ## implementarea relatiilor/legaturilor catre alte fisiere
 
+***cuprins***
+
+[elemente avansate](avansate.md)
+
 
 fisierele accesa
 1.
